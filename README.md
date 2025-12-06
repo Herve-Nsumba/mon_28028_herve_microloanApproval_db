@@ -2,8 +2,8 @@
 ## PL/SQL-Based Business-Oriented Database Application
 Student Information
 
-Name: IRAKOZE Nsumba Herve
-Student ID: 28028
+* Name: IRAKOZE Nsumba Herve
+* Student ID: 28028
 
 ## Project Overview
 
@@ -15,17 +15,17 @@ Small private lenders often struggle with slow loan evaluations, inconsistent ap
 
 ## Key Objectives:
 
-Maintain structured borrower records
+* Maintain structured borrower records
 
-Process loan applications and validate eligibility
+* Process loan applications and validate eligibility
 
-Automate risk evaluation using PL/SQL procedures
+* Automate risk evaluation using PL/SQL procedures
 
-Manage loan disbursements and repayment schedules
+* Manage loan disbursements and repayment schedules
 
-Enforce data integrity using constraints, triggers, and validations
+* Enforce data integrity using constraints, triggers, and validations
 
-Provide reliable reporting for business decision-making
+* Provide reliable reporting for business decision-making
 
 
 ## Documentation
@@ -36,4 +36,4 @@ Normalization Notes	/docs/normalization.md
 BI Considerations	/docs/BI_planning.md
 Notes
 
-This project is developed as a capstone requirement for the PL/SQL System Development course and is designed to operate realistically in a small private lending business environment.
+This project is developed as a capstone project requirement for the PL/SQL System Development course and is designed to operate realistically in a small private lending business environment.
